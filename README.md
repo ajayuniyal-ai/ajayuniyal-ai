@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ajay 👋
 
-<!--
-**ajayuniyal-ai/ajayuniyal-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI-powered App Builder & Freelancer  
 
-Here are some ideas to get you started:
+I build simple, practical applications using AI tools to solve real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Do
+- Build custom web apps
+- Automate workflows
+- Create tools for businesses
+- Convert ideas into working products
+
+## 🧠 Tools I Use
+- OpenAI Codex, Claude Code, and others
+- GitHub
+- HTML, JS (with AI support)
+
+## 📌 Current Focus
+- Building AI-powered tools for freelancers & businesses
+
+## 📫 Contact
+- Available for freelance work
